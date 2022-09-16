@@ -28,13 +28,3 @@ public class Main {
         return personList;
     }
 }
-
-//    private static List<Person> generateClients () {
-//        return List.of(
-//                new Person("Ivan", "Pupkin", 1),
-//                new Person("Oleg", "Vorohin", 3),
-//                new Person("Nikola", "Glazov", 5),
-//                new Person("Petor", "Petrov", 6),
-//                new Person("Oleg", "Nemov", 8)
-//        );
-//    }
